@@ -2,6 +2,8 @@
 
 - `leather.mp4`
 - `poster.jpg`
-- `compare/` — reference vs. generated frame (per character):
-  - `before.jpg` (reference)
-  - `after.jpg` (generated frame)
+- `comparegallery/`
+  - `01-reference.png`
+  - `02-reference.png`
+  - `03-reference.png`
+  - `04-reference.png`
