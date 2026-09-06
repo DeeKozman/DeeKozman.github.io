@@ -1,3 +1,6 @@
 # Build folder and log file
 build/
 build.log
+
+# work-in-progress dumps, not for the published site
+media/**/not_used/
